@@ -11,4 +11,4 @@ Este repositorio documenta técnicas de diagnóstico de red para identificar cue
 ## Caso Práctico: Traza de Rutas
 Se analizó la latencia paso a paso desde la red local hasta el destino final, identificando los routers intermedios y tiempos de respuesta.
 
-![Traza de Ruta](network-trace.png)
+![Traza de Ruta](image.png)
